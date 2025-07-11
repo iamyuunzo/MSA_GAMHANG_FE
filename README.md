@@ -14,6 +14,7 @@
 | [이수진](https://github.com/leeejin)| [오선정](https://github.com/isabella0214) | [조윤주](https://github.com/iamyuunzo) |
 |지도 API, 웹 디자인 및 구현<br>애니메이션<br>예약, 조회 데이터 검증 및 연동 |UI 디자인<br>웹 디자인 및 구현<br>PPT 제작 (디자인) |웹 디자인 및 구현<br>PPT 제작 (내용, 디자인) |
 
+&nbsp;
 
 ## 💫 주요 서비스 소개
 | Tag       | Content                       | Main feature                    |
